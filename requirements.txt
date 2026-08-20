@@ -1,0 +1,24 @@
+fastapi
+uvicorn
+streamlit
+nest_asyncio
+coloredlogs
+pydantic
+langchain_core
+langchain_community
+ipython
+requests
+langchain_openai
+langchain_experimental
+pillow
+langchain-huggingface
+huggingface_hub
+python-dotenv
+langchain-astradb
+open_clip_torch
+torch
+python-multipart
+langchain-qdrant
+structlog
+
+-e .
