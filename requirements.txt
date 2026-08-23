@@ -9,6 +9,7 @@ langchain_community
 ipython
 requests
 langchain_openai
+langchain_anthropic
 langchain_experimental
 pillow
 langchain-huggingface
