@@ -1,5 +1,7 @@
 # Semantic Visual Search Engine
 
+[Live Link](https://semantic-visual-search-engine-nfohv7sdke6qtf5fpwnw3k.streamlit.app/)
+
 Search an image collection with plain-language text or with another image. Images are embedded with OpenCLIP, stored in Qdrant, and retrieved by cosine similarity. An optional LLM step (Anthropic Claude) rewrites chatty queries such as *"show me a red flower please"* into short caption-style text that CLIP matches better.
 
 ## Features
