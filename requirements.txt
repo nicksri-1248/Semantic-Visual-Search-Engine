@@ -17,7 +17,8 @@ huggingface_hub
 python-dotenv
 langchain-astradb
 open_clip_torch
-torch
+torch==2.12.1
+torchvision==0.27.1
 python-multipart
 langchain-qdrant
 structlog

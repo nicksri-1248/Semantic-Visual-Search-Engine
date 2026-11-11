@@ -17,7 +17,7 @@ class QueryTranslator:
 
             self.llm = ChatAnthropic(
                 model=Config.ANTHROPIC_MODEL,
-                temperature=0,
+                # No `temperature`: newer Claude models reject sampling params
                 timeout=20,     # prevents API hangs
             )
 
